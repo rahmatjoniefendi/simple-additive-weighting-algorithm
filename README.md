@@ -1,0 +1,1 @@
+# simple-additive-weighting-algorithm
