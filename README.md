@@ -30,3 +30,7 @@ Completed
 
 - Library
   - Matplotlib
+
+## Applications
+- Decision Support System for Scholarship Acceptance Using Simple Additive Weighting Method ([Click here for more detail](https://rahmatjoniefendi.github.io/projects/scholarship.html))
+- Decision Support System for Credit Applications in Cooperatives Using Simple Additive Weighting Method ([Click here for more detail](https://rahmatjoniefendi.github.io/projects/cooperative_credit.html))
